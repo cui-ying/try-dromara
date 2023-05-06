@@ -1,2 +1,1 @@
-# try-dromara
-try the dromara 
+# dromara 试炼场
